@@ -1,0 +1,21 @@
+.vis{
+	width:50%;
+	float:RIGHT;
+	margin-top:150px;
+	color:#939;
+}
+.vi{
+	width:50%;
+	float:LEFT;
+	margin-top:50px;
+}
+.text td{
+	padding-bottom:25px;
+	padding-right:10px;
+	font-family: Arial;
+	font:bolder;
+	color: #333;
+	padding-left:100px;
+}
+
+
